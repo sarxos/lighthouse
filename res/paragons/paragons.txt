@@ -1,0 +1,54 @@
+Hammerodde;55 17.9 14 46.5;s2c11s1c36;Fl(2)W 10s;21;18;White square tower. Also Shown by day when fog signal is operating. RC
+Sandkass Odde;55 07.9 15 09.2;s5c15s5c75;Fl(2)W 20s;20;21;Gray square tower
+Dueodde;54 59.5 15 04.6;s3c6s2c6s3c30;Fl(3)W 10s;48;20;White 8-sides tower. Added Horn(3) 120s bl2si2bl2si2bl2si110
+Christianso;55 19.3 15 11.3;s3c22;Fl W 5s;29;19;White tower on fort
+Zarrenzin;54 25.6 13 01.0;s25c5;Oc W 6s;52;18;White metal framework tower, red bands, red lantern, white cupola
+Hiddense;54 30.6 13 04.6;s10c5s30c5;Oc(2)WRG 10s;10;15;Gellen. White round metal tower, red top, stone base
+Dornbush;54 36.1 13 07.2;s12c38;LFl WR 10s;95;21;Gray tower. NW summit.
+Rassower Strom;54 32.9 13 11.5;s10c5s10c5s10c5s25c5;Oc(4)W 15s;14;10;Rassow. White up triangle on white metal framework tower
+Sassnitz;54 30.4 13 38.4;s25c5;Oc WG 6s;14;10;White 8-sides tower, red top
+Prorer Wiek;54 26.0 13 34.5;s20c20;Iso WRG 8s;35;23;Prora. Gray 3-sides tower, 2 galleries. Racon. F R on chimnays 320m NE and 0.75M N.
+Swinoujscie;53 55.0 14 17.2;s20c5;Oc WR 5s;68;25;Main Light. Yellow round brick tower, red bands, on square building
+Swinoujscie;53 55.7 14 16.8;s15c10s15c10s40c10;Oc(3)W 20s;11;17;Outer Ldg Lts. Mlyny. Galeriowa. White tower
+Kikut;53 59.0 14 34.9;s25c25;Iso W 10s;91;16;Gray round stone tower, white lantern
+Niechorze;54 05.8 15 03.9;s3c47s2c48;Fl W 10s;63;20;Gray 8-sided tower, red stripes on dwelling
+Dzwirzyno;54 09.6 15 23.4;s30c10;Oc W 8s;13;6;Kanal Resko. W side. Concrete column
+Kolobrzeg;54 11.3 15 33.4;s5c10;Fl W 3s;36;16;Red tower, black cupola
+Gaski;54 14.7 15 52.5;s13c6s13c6s32c6;Oc(3)W 15s;50;23;Red round tower, brown dwelling
+Darlowo;54 26.5 16 22.9;s10c15s10c40;LFl(2)W 15s;20;15;Red square tower, white lantern
+Jaroslawiec;54 32.5 16 32.7;s3c10s3c30;Fl(2)W 9s;50;23;Black tower, near dwelling
+Ustka;54 35.4 16 51.4;s20c10;Oc W 6s;22;18;Raddish-brown 8-sided stone tower, white cupola
+Cholpino;54 43.3 17 14.6;s15c10s5c10;Oc(2)W 14s;75;21;Round brick tower, black cupola
+Port Leba;54 46.3 17 33.2;s5c20;Fl R 5s;10;5;E Mole. Head. White metal column and gallery, red bands
+Stilo;54 47.3 17 44.2;s2c12s1c12s2c33;Fl(3)W 12s;75;23;Metal column, red, white and black bands
+Rozewie;54 49.8 18 20.4;s1c14;Fl W 3s;83;26;Red round tower, red top, 2 galleries
+Wladyslawowo;54 47.9 18 25.5;s23c12s23c12s8c48;Al WGWGWG 25s;13;16;N Mole. Head. Concentrate tower, white lantern
+Jastarnia;54 42.1 18 41.1;s10c10s45c35;Oc(2)W 20s;22;15;White round tower, red bands and cupola
+Hel;54 36.1 18 48.9;s25c25s25c25;Iso W 10s;41;17;Red 8-sides masonry tower. Storm signals
+Hel Port;54 36.1 18 48.1;s10c10s30c10;Iso W 10s;9;6;W Mole. Head. White metal framework tower, red bands
+Jastarnia W;54 41.1 18 40.6;s3c6s3c6s3;Fl(3)WR 10s;9;8;Hel Entrance. W side. White column, red bands, concentrate base
+Puck;54 43.4 18 24.8;s13c10s43c10;Oc(2)W 15s;18;2;No 2 Entrance. Front. Rhomb on column.
+Sopot;54 26.8 18 34.4;s2c18;Fl W 4s;25;17;Mole. Root. Bathing place turret
+Gdansk;54 24.1 18 41.9;s3c7s3c7s3c21;Fl(3)W 9s;56;25;Gray square tower with gallery on Port Captains buiding
+Krynica Morska;54 23.3 19 27.2;s10c10s10c30;LFl(2)W 12s;53;18;Red round tower, white lantern
+Baltiysk;54 38.4 19 53.8;s45c15;Oc W 12s;30;16;RC. Round white tower, red top, 2 galleries.
+Górki E;54 22.6 18 46.9;s10c10s10c45;LFl(2)WR 15s;10;12;Concentrate tower, white gallery
+Elblag;54 19.5 19 25.8;s3c6s3c18;Fl(2)W 6s;15;5;Red metal framework tower, white top
+Kanal Gdanski;54 18.1 19 17.6;s3c6s3c6s3c29;Fl(3)W 10s;13;5;Red round tower, white band
+Obzornyy;54 49.7 19 57.3;s10c15;LFl W 5s;54;20;Triangle on orange round tower, white bands
+Mys Taran;54 57.6 19 58.9;s15c8s15c15s15c7;Oc(3)W 15s;55;21;RC. Red 8-sides tower on dwelling
+Gvardeysiy;54 57.6 20 16.2;s5c15;Fl W 4s;50;18;Black and white square on framework tower
+Lesnoy;55 01.0 20 36.8;s5c10s5c25;Fl(2)W 9s;44;17;Red column, white band, on framework tower
+Rybachiy;55 10.4 20 50.9;s20c10;Oc W 6s;55;18;Red and white framework tower
+Nidden;55 18.2 21 00.8;s1c6s1c21;Fl(2)W 5.8s;77;22;RC. Red round tower
+Yuodrante;55 33.5 21 07.2;s15c25;LFl W 8s;68;18;White square metal framework tower
+Klaipeda;55 43.7 21 05.9;s15c15;Iso W 6s;44;18;White round tower, black bands and black stripe
+Swentoji;56 01.5 21 05.4;s8c7s8c7s8c37;Fl(3)W 15s;42;17;Red rectangle, white stripe, on square metal framework tower
+Bernati;56 22.9 20 59.5;s10c10;Iso W 4s;41;15;Metal framework tower, yellow gallery
+Liepaja;56 31.1 20 59.5;s15c15;Iso W 6s;32;16;Red round tower, white bands
+Akmenrags;56 50.0 21 03.6;s5c5s15c25;Mo(A)W 10s;38;18;Red round stone tower
+Uzava;57 12.6 21 25.0;s2c14s2c14s2c44;Fl(3)W 15s;44;18;White round stone tower on red dwelling
+Ventspils;57 32.0 21 21.3;s10c10s10c10s10c25;LFl(3)W 15s;18;12;Red hull, white band, two masts, white superstructure
+Ovisi;57 34.3 21 42.8;s14c22;LFl W 7.5s;38;18;White round stone tower. Racon. Storm signals.
+Irbenskiy;57 45.0 21 43.5;s5c10s5c30;Fl(2)W 10s;37;17;Yellow trapezoid on yellow tower, white bands, black base. RC. Racon. Helicopter platform.
+Mikelbaka;57 36.0 21 59.5;s1c7s1c21;Fl(2)W 6s;56;20;White round concentrate tower

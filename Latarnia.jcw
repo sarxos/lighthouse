@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Latarnia</label>
+	</settings>
+	<users>
+		<user>
+			<path>Latarnia.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Latarnia.jcp</path>
+		</project>
+	</projects>
+</workspace>

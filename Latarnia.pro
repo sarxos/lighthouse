@@ -1,0 +1,4 @@
+-libraryjars C:\JBuilderX\WTK21\lib\midpapi10.jar;C:\JBuilderX\WTK21\lib\cldcapi10.jar
+-injars C:\JBuilderX\WTK21\apps\Latarnia\bin\Latarnia.jar
+-outjar C:\DOCUME~1\SarXos\USTAWI~1\Temp\Latarnia.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 

@@ -1,0 +1,7 @@
+1. Wlacz pomiar.
+2. Wcisnij klawisz na blysk.
+3. Pusc go na ciemnosc.
+4. Zmierz kilka okresów.
+5. Wcisnij 'Analizuj'.
+6. Wybierz lokalizacje.
+7. Wyswietlone zostanie info.

@@ -1,0 +1,7 @@
+1. Run measurement.
+2. Press 'Record' key on light.
+3. Release it on dark.
+4. Measure some periods.
+5. Press 'Analysis'.
+6. Press one of locations.
+7. Read information about it.

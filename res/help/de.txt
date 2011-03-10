@@ -1,0 +1,7 @@
+1. Einbeziehen messung.
+2. Pressen 'Registrieren' wenn licht.
+3. Lassen wenn dunkel.
+4. Messung ein paar period.
+5. Pressen 'Verarbeiten'.
+6. Pressen ein lage.
+7. Durchlesen informatione.
