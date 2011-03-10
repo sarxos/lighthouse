@@ -1,6 +1,4 @@
-Each lighthouse has its own, onique light harasteristic. See:
-
-http://en.wikipedia.org/wiki/Light_characteristic
+Each lighthouse has its own, onique light harasteristic. See "Wikipedia":http://en.wikipedia.org/wiki/Light_characteristic
 
 I've created this project many years ago (about 2005) as a semester work on the programming lecture at school. 
 
@@ -12,7 +10,7 @@ Usage instruction:
 # Watch carefully lighthouse to recognize, and:
 ** press button when you see the light,
 ** release button when you don't see the light.
-# Gather few samples (at last free) of the lighting cycle.
+# Gather few samples (at last three) of the lighting cycle (in case of too short sample app will throw <code>SampleToShortException</code>).
 # Press 'Options' button, and then select 'Recognize' option.
 
 After selecting 'recognize' option application will interpolate gathered samples and find the most suitable matches from the internal database. It will display the list of all suitable lighthouses wogether with percentage match. With some exercise in gathering samples you can easily obtain 98% match in light recognition.
