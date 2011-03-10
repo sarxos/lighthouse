@@ -1,4 +1,4 @@
-Each lighthouse has its own, onique light harasteristic. See "Wikipedia":http://en.wikipedia.org/wiki/Light_characteristic
+Each lighthouse has its own, onique light charasteristic. See "Light characteristic at Wikipedia":http://en.wikipedia.org/wiki/Light_characteristic
 
 I've created this project many years ago (about 2005) as a semester work on the programming lecture at school. 
 
